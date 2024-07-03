@@ -1,0 +1,2 @@
+# WAGEGLOBAL
+WAGE Whitepapers
